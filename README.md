@@ -1,1 +1,1 @@
-#The UI app for the [ftran](https://github.com/ujum/ftran)  cli tool based on cross platform GUI toolkit
+# The UI app for the [ftran](https://github.com/ujum/ftran)  cli tool based on cross platform GUI toolkit
